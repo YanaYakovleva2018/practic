@@ -1,0 +1,11 @@
+D:\Programming\Lab04\Lab03\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+D:\Programming\Lab04\Lab03\obj\Debug\Lab04.Form1.resources
+D:\Programming\Lab04\Lab03\obj\Debug\Lab04.Form2.resources
+D:\Programming\Lab04\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\Programming\Lab04\Lab03\obj\Debug\Lab04.csproj.GenerateResource.Cache
+D:\Programming\Lab04\Lab03\obj\Debug\Lab03.exe
+D:\Programming\Lab04\Lab03\obj\Debug\Lab03.pdb
+D:\Programming\Lab04\Lab03\bin\Debug\Lab03.exe.config
+D:\Programming\Lab04\Lab03\bin\Debug\Lab03.exe
+D:\Programming\Lab04\Lab03\bin\Debug\Lab03.pdb
+D:\Programming\Lab04\Lab03\obj\Debug\Lab04.Form3.resources

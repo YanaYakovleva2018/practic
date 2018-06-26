@@ -1,0 +1,7 @@
+D:\Programming\Lab03\ArrayHandleUnitTest\obj\Debug\ArrayHandleUnitTest.csprojResolveAssemblyReference.cache
+D:\Programming\Lab03\ArrayHandleUnitTest\bin\Debug\ArrayHandleUnitTest.dll
+D:\Programming\Lab03\ArrayHandleUnitTest\bin\Debug\ArrayHandleUnitTest.pdb
+D:\Programming\Lab03\ArrayHandleUnitTest\bin\Debug\Lab03.exe
+D:\Programming\Lab03\ArrayHandleUnitTest\bin\Debug\Lab03.pdb
+D:\Programming\Lab03\ArrayHandleUnitTest\obj\Debug\ArrayHandleUnitTest.dll
+D:\Programming\Lab03\ArrayHandleUnitTest\obj\Debug\ArrayHandleUnitTest.pdb

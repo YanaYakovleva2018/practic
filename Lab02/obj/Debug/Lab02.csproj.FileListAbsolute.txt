@@ -1,0 +1,9 @@
+C:\Users\Пользователь\Desktop\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\Lab02\bin\Debug\Lab02.exe
+C:\Users\Пользователь\Desktop\Lab02\bin\Debug\Lab02.pdb
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.exe
+C:\Users\Пользователь\Desktop\Lab02\obj\Debug\Lab02.pdb
